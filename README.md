@@ -2,7 +2,7 @@
 
 </br>
 <strong>CDN: https://cdn.jsdelivr.net/gh/SanzioRaphael/Seletor.js@f100a4b7e70bfa7012b4a5b32ac27193ebc4a346/Selector.min.js</strong>
-</br>
+</br></br>
 
 A biblioteca Selector.js é uma biblioteca simples em JavaScript que permite selecionar elementos do DOM usando seletores de classe e ID, bem como adicionar eventos a esses elementos selecionados.
 
