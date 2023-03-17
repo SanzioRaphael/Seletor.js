@@ -4,8 +4,9 @@ A biblioteca Selector.js é uma biblioteca simples em JavaScript que permite sel
 <h3>Selecionando elementos</h3>
 <p>Para selecionar elementos usando Selector.js, você pode usar a função $() e passar um seletor de classe ou ID como argumento:</p>
 <span>
-// Seleciona todos os elementos com a classe "my-class"
-$(".my-class");
+  <p style="color:springgreen;">// Seleciona todos os elementos com a classe "my-class"</p>
+
+ $(".my-class");
 
 // Seleciona o elemento com o ID "my-element"
 $("#my-element");
