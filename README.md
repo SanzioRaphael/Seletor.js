@@ -11,10 +11,10 @@ A biblioteca Selector.js é uma biblioteca simples em JavaScript que permite sel
 
 <h5>// Seleciona todos os elementos com a classe "my-class"</h5>
 <sub>$(".my-class");</sub>
-</br>
+</br></br>
 <h5>// Seleciona o elemento com o ID "my-element"</h5>
 <sub>$("#my-element");</sub>
-</br>
+</br></br>
 
 <h3>Adicionando eventos</h3>
 <p>Para adicionar eventos aos elementos selecionados, você pode usar o método .on() e passar o tipo de evento (como "click" ou "mouseover") e uma função de retorno de chamada como argumentos:</p>
@@ -29,7 +29,7 @@ A biblioteca Selector.js é uma biblioteca simples em JavaScript que permite sel
   console.log("Clicado no elemento com ID 'my-element'!");
 });
 </sub>
-</br>
+</br></br>
 
 <h3>Exemplo completo</h3>
 <p>Aqui está um exemplo completo que usa Selector.js para selecionar elementos e adicionar eventos a eles:</p>
